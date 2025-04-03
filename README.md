@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/saakchhianand/leetcode/tree/master/0039-combination-sum) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saakchhianand/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/saakchhianand/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
