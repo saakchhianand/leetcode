@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saakchhianand/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/saakchhianand/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saakchhianand/leetcode/tree/master/0046-permutations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saakchhianand/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
 |  |
