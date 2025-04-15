@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakchhianand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saakchhianand/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Backtracking
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +66,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
