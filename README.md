@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakchhianand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saakchhianand/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Backtracking
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saakchhianand/leetcode/tree/master/0036-valid-sudoku) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/saakchhianand/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
