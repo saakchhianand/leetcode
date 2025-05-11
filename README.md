@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakchhianand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1293-three-consecutive-odds](https://github.com/saakchhianand/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
