@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saakchhianand/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saakchhianand/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saakchhianand/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/saakchhianand/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/saakchhianand/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakchhianand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saakchhianand/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saakchhianand/leetcode/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/saakchhianand/leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saakchhianand/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saakchhianand/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
