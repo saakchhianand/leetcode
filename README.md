@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/saakchhianand/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/saakchhianand/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saakchhianand/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/saakchhianand/leetcode/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/saakchhianand/leetcode/tree/master/2145-grid-game) |
 ## Greedy
@@ -257,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saakchhianand/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Memoization
 |  |
@@ -297,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saakchhianand/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
