@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saakchhianand/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saakchhianand/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saakchhianand/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saakchhianand/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/saakchhianand/leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saakchhianand/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saakchhianand/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/saakchhianand/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Memoization
 |  |
