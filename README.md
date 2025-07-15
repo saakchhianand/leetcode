@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3396-valid-word](https://github.com/saakchhianand/leetcode/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Combinatorics
 |  |
