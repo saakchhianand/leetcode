@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saakchhianand/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saakchhianand/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saakchhianand/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/saakchhianand/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saakchhianand/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saakchhianand/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
