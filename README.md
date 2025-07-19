@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/saakchhianand/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saakchhianand/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/saakchhianand/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saakchhianand/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/saakchhianand/leetcode/tree/master/3396-valid-word) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saakchhianand/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saakchhianand/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Union Find
 |  |
 | ------- |
