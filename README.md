@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saakchhianand/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/saakchhianand/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saakchhianand/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saakchhianand/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saakchhianand/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/saakchhianand/leetcode/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
 | [2509-minimize-xor](https://github.com/saakchhianand/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
