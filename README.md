@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/saakchhianand/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saakchhianand/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/saakchhianand/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1813-maximum-erasure-value](https://github.com/saakchhianand/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/saakchhianand/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saakchhianand/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saakchhianand/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1813-maximum-erasure-value](https://github.com/saakchhianand/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saakchhianand/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
