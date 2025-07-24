@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/saakchhianand/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saakchhianand/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saakchhianand/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/saakchhianand/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/saakchhianand/leetcode/tree/master/2792-neighboring-bitwise-xor) |
