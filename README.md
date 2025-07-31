@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/saakchhianand/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saakchhianand/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/saakchhianand/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakchhianand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saakchhianand/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saakchhianand/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saakchhianand/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saakchhianand/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
