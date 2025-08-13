@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/saakchhianand/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saakchhianand/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saakchhianand/leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/saakchhianand/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saakchhianand/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saakchhianand/leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/saakchhianand/leetcode/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
