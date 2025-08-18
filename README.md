@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/saakchhianand/leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/saakchhianand/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/saakchhianand/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saakchhianand/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saakchhianand/leetcode/tree/master/0047-permutations-ii) |
+| [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saakchhianand/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saakchhianand/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/saakchhianand/leetcode/tree/master/0900-reordered-power-of-2) |
