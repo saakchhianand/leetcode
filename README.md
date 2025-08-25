@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/saakchhianand/leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/saakchhianand/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/saakchhianand/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saakchhianand/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/saakchhianand/leetcode/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/saakchhianand/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saakchhianand/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saakchhianand/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
