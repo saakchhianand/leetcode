@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saakchhianand/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/saakchhianand/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saakchhianand/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saakchhianand/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saakchhianand/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
