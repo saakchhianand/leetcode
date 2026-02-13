@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saakchhianand/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saakchhianand/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saakchhianand/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/saakchhianand/leetcode/tree/master/3396-valid-word) |
+| [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Combinatorics
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/saakchhianand/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/saakchhianand/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
 |  |
 | ------- |
