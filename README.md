@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saakchhianand/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saakchhianand/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/saakchhianand/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/saakchhianand/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/saakchhianand/leetcode/tree/master/0037-sudoku-solver) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saakchhianand/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/saakchhianand/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saakchhianand/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saakchhianand/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/saakchhianand/leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/saakchhianand/leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
