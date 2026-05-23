@@ -385,11 +385,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saakchhianand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saakchhianand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saakchhianand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saakchhianand/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saakchhianand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Design
 |  |
 | ------- |
