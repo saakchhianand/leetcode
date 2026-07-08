@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saakchhianand/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saakchhianand/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/saakchhianand/leetcode/tree/master/3396-valid-word) |
 | [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saakchhianand/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/saakchhianand/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
 | ------- |
