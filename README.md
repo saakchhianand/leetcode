@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saakchhianand/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-network-recovery-pathways](https://github.com/saakchhianand/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/saakchhianand/leetcode/tree/master/3637-trionic-array-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/saakchhianand/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saakchhianand/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saakchhianand/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/saakchhianand/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/saakchhianand/leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saakchhianand/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/saakchhianand/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saakchhianand/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saakchhianand/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saakchhianand/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/saakchhianand/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3790-fruits-into-baskets-ii](https://github.com/saakchhianand/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saakchhianand/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saakchhianand/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saakchhianand/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -469,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/saakchhianand/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/saakchhianand/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph
 |  |
 | ------- |
@@ -509,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saakchhianand/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/saakchhianand/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
