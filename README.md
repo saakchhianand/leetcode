@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saakchhianand/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/saakchhianand/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -532,5 +535,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
