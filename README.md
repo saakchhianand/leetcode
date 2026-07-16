@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saakchhianand/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saakchhianand/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/saakchhianand/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/saakchhianand/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saakchhianand/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saakchhianand/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/saakchhianand/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/saakchhianand/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/saakchhianand/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saakchhianand/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/saakchhianand/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saakchhianand/leetcode/tree/master/0171-excel-sheet-column-number) |
