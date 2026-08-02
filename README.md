@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saakchhianand/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saakchhianand/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/saakchhianand/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1340-jump-game-v](https://github.com/saakchhianand/leetcode/tree/master/1340-jump-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saakchhianand/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/saakchhianand/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saakchhianand/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/saakchhianand/leetcode/tree/master/1448-maximum-69-number) |
@@ -557,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
