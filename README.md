@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/saakchhianand/leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/saakchhianand/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/saakchhianand/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/saakchhianand/leetcode/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/saakchhianand/leetcode/tree/master/0739-daily-temperatures) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/saakchhianand/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/saakchhianand/leetcode/tree/master/0396-rotate-function) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saakchhianand/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saakchhianand/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saakchhianand/leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/saakchhianand/leetcode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
