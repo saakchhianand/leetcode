@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/saakchhianand/leetcode/tree/master/3379-transformed-array) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saakchhianand/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saakchhianand/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saakchhianand/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/saakchhianand/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saakchhianand/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saakchhianand/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saakchhianand/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saakchhianand/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saakchhianand/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saakchhianand/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saakchhianand/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saakchhianand/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/saakchhianand/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/saakchhianand/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saakchhianand/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saakchhianand/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saakchhianand/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saakchhianand/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saakchhianand/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saakchhianand/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
