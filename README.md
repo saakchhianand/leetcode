@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/saakchhianand/leetcode/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saakchhianand/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saakchhianand/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/saakchhianand/leetcode/tree/master/1656-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakchhianand/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/saakchhianand/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saakchhianand/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/saakchhianand/leetcode/tree/master/2145-grid-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/saakchhianand/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saakchhianand/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saakchhianand/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saakchhianand/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saakchhianand/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakchhianand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/saakchhianand/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/saakchhianand/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saakchhianand/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saakchhianand/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saakchhianand/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/saakchhianand/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/saakchhianand/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
