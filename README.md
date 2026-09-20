@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saakchhianand/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saakchhianand/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3225-maximum-score-from-grid-operations](https://github.com/saakchhianand/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-type-of-triangle](https://github.com/saakchhianand/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saakchhianand/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saakchhianand/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/saakchhianand/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saakchhianand/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saakchhianand/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saakchhianand/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/saakchhianand/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/saakchhianand/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2145-grid-game](https://github.com/saakchhianand/leetcode/tree/master/2145-grid-game) |
+| [3225-maximum-score-from-grid-operations](https://github.com/saakchhianand/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saakchhianand/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saakchhianand/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saakchhianand/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saakchhianand/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/saakchhianand/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/saakchhianand/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3225-maximum-score-from-grid-operations](https://github.com/saakchhianand/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3639-zero-array-transformation-i](https://github.com/saakchhianand/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/saakchhianand/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saakchhianand/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
