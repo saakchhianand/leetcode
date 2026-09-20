@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/saakchhianand/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saakchhianand/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/saakchhianand/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/saakchhianand/leetcode/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saakchhianand/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saakchhianand/leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/saakchhianand/leetcode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/saakchhianand/leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/saakchhianand/leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/saakchhianand/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/saakchhianand/leetcode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/saakchhianand/leetcode/tree/master/0877-stone-game) |
